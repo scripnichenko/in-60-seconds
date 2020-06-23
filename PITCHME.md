@@ -1,6 +1,30 @@
-# Let's Get Started
+# Let`s make a (s)hot with Gatling 3.0+
 
 ---
+
+## About me
+@snap[west span-50]
+Test Automation Lead @UBS (Wroclaw, PL) 
+7+ years experience in Quality Assurance.
+4+ years in Test Automation.
+3+ years in Performance Testing & Monitoring.
+Linkedin: [/in/andriiskrypnychenko/](https://www.linkedin.com/in/andriiskrypnychenko/)
+@snapend
+
+@snap[east span-50]
+![IMAGE](doc/assets/ansk_bage.jpg)
+@snapend
+
+## Let`s vote
+
+@snap[west span-50]
+Vote on [menti.com](https://www.menti.com/1ypz5kvxyy)
+The digit code **23 80 39** 
+@snapend
+
+@snap[east span-50]
+![IMAGE](doc/assets/qrcode_menticom.png)
+@snapend
 
 ## Add Some Slide Candy
 
