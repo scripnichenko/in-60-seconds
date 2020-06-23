@@ -2,7 +2,10 @@
 
 ---
 
-## About me
+@snap[north-west h2-blue]
+#### About me...
+@snapend
+
 @snap[west span-50]
 Test Automation Lead @UBS (Wroclaw, PL) 
 7+ years experience in Quality Assurance.
@@ -14,8 +17,6 @@ Linkedin: [/in/andriiskrypnychenko/](https://www.linkedin.com/in/andriiskrypnych
 @snap[east span-50]
 ![IMAGE](doc/assets/ansk_bio.jpg)
 @snapend
-
----
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Let`s make a shout for tool which you prefer]
