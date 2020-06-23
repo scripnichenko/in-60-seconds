@@ -12,7 +12,7 @@ Linkedin: [/in/andriiskrypnychenko/](https://www.linkedin.com/in/andriiskrypnych
 @snapend
 
 @snap[east span-50]
-![IMAGE](doc/assets/ansk_bage.jpg)
+![IMAGE](doc/assets/ansk_bio.jpg)
 @snapend
 
 ---
@@ -20,13 +20,16 @@ Linkedin: [/in/andriiskrypnychenko/](https://www.linkedin.com/in/andriiskrypnych
 ## Let`s vote
 
 @snap[west span-50]
-Vote on [menti.com](https://www.menti.com/1ypz5kvxyy)
-The digit code **23 80 39** 
+Goto on [menti.com](https://www.menti.com)
+Use the digit code **23 80 39** 
 @snapend
 
 @snap[east span-50]
 ![IMAGE](doc/assets/qrcode_menticom.png)
 @snapend
+
+---
+
 
 ## Add Some Slide Candy
 
