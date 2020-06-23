@@ -17,7 +17,8 @@ Linkedin: [/in/andriiskrypnychenko/](https://www.linkedin.com/in/andriiskrypnych
 
 ---
 
-## Let`s vote
+---?color=linear-gradient(180deg, white 75%, black 25%)
+@title[Let`s make a shout for tool which you prefer]
 
 @snap[west span-50]
 Goto on [menti.com](https://www.menti.com)
