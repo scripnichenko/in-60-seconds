@@ -2,9 +2,8 @@
 
 ---
 
-@snap[north-west h2-blue]
-#### About me...
-@snapend
+
+## About me...
 
 @snap[west span-50]
 Test Automation Lead @UBS (Wroclaw, PL) 
@@ -18,6 +17,7 @@ Linkedin: [/in/andriiskrypnychenko/](https://www.linkedin.com/in/andriiskrypnych
 ![IMAGE](doc/assets/ansk_bio.jpg)
 @snapend
 
+## Voting time 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Let`s make a shout for tool which you prefer]
 
