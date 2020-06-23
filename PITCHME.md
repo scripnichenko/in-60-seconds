@@ -15,6 +15,8 @@ Linkedin: [/in/andriiskrypnychenko/](https://www.linkedin.com/in/andriiskrypnych
 ![IMAGE](doc/assets/ansk_bage.jpg)
 @snapend
 
+---
+
 ## Let`s vote
 
 @snap[west span-50]
